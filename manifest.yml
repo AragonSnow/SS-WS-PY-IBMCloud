@@ -1,0 +1,4 @@
+---
+applications:
+ - name: sswebpy
+   random-route: true

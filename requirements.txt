@@ -1,0 +1,4 @@
+honcho==0.7.1
+numpy==1.12.0
+shadowsocks==2.8.2
+websockify==0.8.0
